@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/techiedeepak" target="blank"><img src="https://img.shields.io/twitter/follow/techiedeepak?logo=twitter&style=for-the-badge" alt="techiedeepak" /></a> </p>
 
+<p align="left"> <a href="https://www.linkedin.com/in/deepak-kumar-nayak-555188261/" target="blank"><img src="https://img.shields.io/badge/Linkedin-%20Follow%20%40%20Deepak%20Kumar-blue" alt="deepakLinkedin" /></a> </p>
+
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, React, Python, Django**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/user/settings](https://app.netlify.com/user/settings)
