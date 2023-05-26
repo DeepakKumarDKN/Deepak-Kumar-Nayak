@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar Nayak</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumardkn&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkumardkn" /> </p>
-
-
-
 <p align="left"> <a href="https://twitter.com/techiedeepak" target="blank"><img src="https://img.shields.io/twitter/follow/techiedeepak?logo=twitter&style=for-the-badge" alt="techiedeepak" /></a> </p>
 
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, React, Python, Django**
