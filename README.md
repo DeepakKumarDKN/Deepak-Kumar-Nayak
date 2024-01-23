@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/user/settings](https://app.netlify.com/user/settings)
 
-- 📝 Link For The Articles I have Writtem [https://hashnode.com/@DeepakNayak](https://hashnode.com/@DeepakNayak)
+- 📝 Link For The Articles I have Written [https://hashnode.com/@DeepakNayak](https://hashnode.com/@DeepakNayak)
 
 - 📫 How to reach me **deepaknnayak34@gmail.com**
 
