@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar Nayak</h1>
-<h3 align="center">Aspiring Full Stack Developer</h3>
-
 <p align="left"> <a href="https://twitter.com/techiedeepak" target="blank"><img src="https://img.shields.io/twitter/follow/techiedeepak?logo=twitter&style=for-the-badge" alt="techiedeepak" /></a> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/deepak-kumar-nayak-555188261/" target="blank"><img src="https://img.shields.io/badge/Linkedin-%20Follow%20%40%20Deepak%20Kumar-blue" alt="deepakLinkedin" /></a> </p>
