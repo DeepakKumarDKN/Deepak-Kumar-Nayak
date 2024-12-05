@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/techiedeepak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techiedeepak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deepak-kumar-nayak-555188261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-kumar-nayak-555188261/" height="30" width="40" /></a>
 <a href="https://instagram.com/deepak._.believe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepak._.believe" height="30" width="40" /></a>
 <a href="https://hashnode.com/@deepaknayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@deepaknayak" height="30" width="40" /></a>
 <a href="/https://deepaknayak.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://deepaknayak.hashnode.dev/" height="30" width="40" /></a>
